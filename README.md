@@ -2,7 +2,7 @@
 
 ## Demonstration
 
-<img src="https://i.pcmag.com/imagery/articles/01TipsOBM6nDRu26h69etem-5.fit_lim.size_960x.jpg" alt="Exemplo">
+<img src="./assets/chclone.png" alt="Exemplo">
 
 ## Techs
 
